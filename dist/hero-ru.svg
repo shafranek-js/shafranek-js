@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="254" viewBox="0 0 960 254" role="img" aria-label="Shafranek JS portfolio">
+ <defs><linearGradient id="g" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#141f2e"/><stop offset="1" stop-color="#0b1422"/></linearGradient><linearGradient id="gl" x1="0" x2="1"><stop stop-color="#66aef5"/><stop offset="1" stop-color="#f0b86a"/></linearGradient></defs>
+ <rect width="960" height="254" rx="18" fill="url(#g)"/>
+ <rect x="1" y="1" width="958" height="252" rx="17" fill="none" stroke="#35495e"/>
+ <path d="M44 45 H170" stroke="url(#gl)" stroke-width="3.5" stroke-linecap="round"/>
+ <text x="44" y="75" fill="#a5c5df" font-family="Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="3">SHAFRANEK / JS</text>
+ <text x="44" y="121" fill="#f1f6ff" font-family="Arial, sans-serif" font-size="31" font-weight="700" letter-spacing=".4">СОЗДАЮ ИНСТРУМЕНТЫ</text>
+ <text x="44" y="162" fill="#f1f6ff" font-family="Arial, sans-serif" font-size="31" font-weight="700" letter-spacing=".4">ДЛЯ РАБОТЫ И ОБУЧЕНИЯ</text>
+ <text x="44" y="203" fill="#adbfce" font-family="Arial, sans-serif" font-size="17">Музыка · Дизайн · Автоматизация</text>
+ <g opacity=".5" stroke="#345875" fill="none">
+ <path d="M673 42 H915 M673 64 H915 M673 86 H915 M673 108 H915 M673 130 H915" stroke-width="2"/>
+ <path d="M690 40 V132 M722 40 V132 M754 40 V132 M786 40 V132 M818 40 V132 M850 40 V132 M882 40 V132"/>
+ </g>
+ <g fill="#e5b86d" opacity=".9"><ellipse cx="715" cy="87" rx="12" ry="8" transform="rotate(-19 715 87)"/><ellipse cx="788" cy="64" rx="12" ry="8" transform="rotate(-19 788 64)"/><ellipse cx="848" cy="109" rx="12" ry="8" transform="rotate(-19 848 109)"/></g>
+ <g stroke="#e5b86d" stroke-width="3.5"><path d="M726 84 V39 M799 61 V18 M859 106 V61"/></g>
+ <g transform="translate(688 162)" opacity=".85"><rect width="209" height="61" rx="5" fill="#dce9f5"/><path d="M0 0 V61" stroke="#5c7289" stroke-width="1"/><path d="M21 0 V61" stroke="#5c7289" stroke-width="1"/><path d="M42 0 V61" stroke="#5c7289" stroke-width="1"/><path d="M63 0 V61" stroke="#5c7289" stroke-width="1"/><path d="M84 0 V61" stroke="#5c7289" stroke-width="1"/><path d="M105 0 V61" stroke="#5c7289" stroke-width="1"/><path d="M126 0 V61" stroke="#5c7289" stroke-width="1"/><path d="M147 0 V61" stroke="#5c7289" stroke-width="1"/><path d="M168 0 V61" stroke="#5c7289" stroke-width="1"/><path d="M189 0 V61" stroke="#5c7289" stroke-width="1"/><rect x="14" y="0" width="14" height="36" rx="2" fill="#1e344a"/><rect x="35" y="0" width="14" height="36" rx="2" fill="#1e344a"/><rect x="77" y="0" width="14" height="36" rx="2" fill="#1e344a"/><rect x="98" y="0" width="14" height="36" rx="2" fill="#1e344a"/><rect x="119" y="0" width="14" height="36" rx="2" fill="#1e344a"/><rect x="161" y="0" width="14" height="36" rx="2" fill="#1e344a"/><rect x="182" y="0" width="14" height="36" rx="2" fill="#1e344a"/></g>
+</svg>

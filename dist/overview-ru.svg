@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="108" viewBox="0 0 960 108" role="img" aria-label="Portfolio overview">
+ <rect width="960" height="108" rx="13" fill="#111b25" stroke="#304153"/>
+ <g transform="translate(29 0)"><text x="0" y="48" font-family="Arial, sans-serif" font-size="32" font-weight="700" fill="#75b6f2">14</text><text x="0" y="78" font-family="Arial, sans-serif" font-size="10.7" font-weight="700" letter-spacing=".75" fill="#b2c0cd">ИЗБРАННЫХ ПРОЕКТОВ</text></g><g transform="translate(349 0)"><text x="0" y="48" font-family="Arial, sans-serif" font-size="23" font-weight="700" fill="#ecc07c">ЕЖЕДНЕВНО</text><text x="0" y="78" font-family="Arial, sans-serif" font-size="10.7" font-weight="700" letter-spacing=".75" fill="#b2c0cd">ОБНОВЛЕНИЕ СТАТИСТИКИ</text></g><g transform="translate(669 0)"><text x="0" y="48" font-family="Arial, sans-serif" font-size="32" font-weight="700" fill="#8ed1c2">GITHUB</text><text x="0" y="78" font-family="Arial, sans-serif" font-size="10.7" font-weight="700" letter-spacing=".75" fill="#b2c0cd">ОТКРЫТЫЕ РЕПОЗИТОРИИ</text></g>
+ <path d="M320 20 V88 M640 20 V88" stroke="#304153"/>
+ </svg>

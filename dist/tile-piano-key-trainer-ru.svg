@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="460" height="168" viewBox="0 0 460 168" role="img" aria-label="Piano Key Trainer">
+ <rect width="460" height="168" rx="15" fill="#111b25"/>
+ <rect x="1" y="1" width="458" height="166" rx="14" fill="none" stroke="#314254"/>
+ <rect x="1" y="1" width="5" height="166" rx="3" fill="#f0b86a"/>
+ <circle cx="429" cy="30" r="37" fill="#f0b86a" opacity=".06"/>
+ <circle cx="429" cy="30" r="22" fill="none" stroke="#f0b86a" stroke-opacity=".22"/>
+ <text x="24" y="28" font-family="Arial, sans-serif" font-size="10.5" font-weight="700" letter-spacing="1.15" fill="#f0b86a">АДАПТИВНОЕ ОБУЧЕНИЕ</text>
+ <text x="24" y="61" font-family="Arial, sans-serif" font-weight="700" font-size="22" fill="#f2f5fa">Piano Key Trainer</text>
+ <text x="24" y="91" font-family="Arial, sans-serif" font-size="13.4" fill="#adbecc">Изучение клавиш с интервальным повторением и Web</text>
+ <text x="24" y="111" font-family="Arial, sans-serif" font-size="13.4" fill="#adbecc">MIDI.</text>
+ <path d="M24 129 H436" stroke="#304352" stroke-width="1"/>
+ <text x="24" y="151" font-family="Arial, sans-serif" font-size="11" fill="#92a6b7">ОТКРЫТЫЙ ИСХОДНЫЙ КОД</text>
+ <text x="436" y="151" font-family="Arial, sans-serif" font-size="11.5" text-anchor="end" font-weight="700" fill="#f0b86a">ПРОЕКТ →</text>
+</svg>
