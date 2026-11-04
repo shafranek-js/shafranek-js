@@ -8,6 +8,6 @@
  <text x="24" y="61" font-family="Arial, sans-serif" font-weight="700" font-size="22" fill="#f2f5fa">Jira Tempo Reporter</text>
  <text x="24" y="91" font-family="Arial, sans-serif" font-size="13.4" fill="#adbecc">Turn Jira Tempo worklogs into Telegram reports.</text>
  <path d="M24 129 H436" stroke="#304352" stroke-width="1"/>
- <text x="24" y="151" font-family="Arial, sans-serif" font-size="11" fill="#92a6b7">OPEN SOURCE / GITHUB</text>
+ <text x="24" y="151" font-family="Arial, sans-serif" font-size="12" fill="#bbc8d4">★ 0   ·   Forks 0</text>
  <text x="436" y="151" font-family="Arial, sans-serif" font-size="11.5" text-anchor="end" font-weight="700" fill="#f0b86a">VIEW CODE →</text>
 </svg>

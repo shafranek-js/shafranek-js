@@ -1,0 +1,78 @@
+{
+  "schemaVersion": 1,
+  "refreshedOn": "2026-11-04",
+  "publicRepositoryCount": 29,
+  "totalStars": 2,
+  "featured": {
+    "Nota-Re": {
+      "stars": 0,
+      "forks": 0,
+      "pushedAt": "2026-10-31T17:09:35Z"
+    },
+    "play-along": {
+      "stars": 0,
+      "forks": 0,
+      "pushedAt": "2026-10-16T22:14:50Z"
+    },
+    "CartonBuilder": {
+      "stars": 0,
+      "forks": 0,
+      "pushedAt": "2026-09-13T12:36:54Z"
+    },
+    "learning-markdown": {
+      "stars": 0,
+      "forks": 0,
+      "pushedAt": "2026-10-28T15:45:05Z"
+    },
+    "pianomotion-studio": {
+      "stars": 1,
+      "forks": 0,
+      "pushedAt": "2026-11-03T12:10:36Z"
+    },
+    "cadenceflow": {
+      "stars": 0,
+      "forks": 0,
+      "pushedAt": "2026-10-10T13:48:38Z"
+    },
+    "piano-key-trainer": {
+      "stars": 0,
+      "forks": 0,
+      "pushedAt": "2026-10-09T20:16:22Z"
+    },
+    "MelodicaTrainer": {
+      "stars": 0,
+      "forks": 0,
+      "pushedAt": "2026-07-29T14:30:18Z"
+    },
+    "FretboardTrainer": {
+      "stars": 0,
+      "forks": 0,
+      "pushedAt": "2026-05-09T14:27:57Z"
+    },
+    "HarpTrainer": {
+      "stars": 0,
+      "forks": 0,
+      "pushedAt": "2026-07-16T17:51:59Z"
+    },
+    "convert2md-ui": {
+      "stars": 0,
+      "forks": 0,
+      "pushedAt": "2026-04-13T14:32:16Z"
+    },
+    "AI-Assistant-Excel-En": {
+      "stars": 0,
+      "forks": 0,
+      "pushedAt": "2026-02-21T14:58:16Z"
+    },
+    "jira-tempo-telegram-report": {
+      "stars": 0,
+      "forks": 0,
+      "pushedAt": "2026-04-14T17:29:47Z"
+    },
+    "SonicBook": {
+      "stars": 0,
+      "forks": 0,
+      "pushedAt": "2026-10-27T09:27:33Z"
+    }
+  }
+}
