@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "refreshedOn": "2026-11-22",
+  "refreshedOn": "2026-11-23",
   "publicRepositoryCount": 32,
-  "totalStars": 3,
+  "totalStars": 4,
   "featured": {
     "Nota-Re": {
       "stars": 1,
@@ -25,7 +25,7 @@
       "pushedAt": "2026-10-28T15:45:05Z"
     },
     "pianomotion-studio": {
-      "stars": 1,
+      "stars": 2,
       "forks": 0,
       "pushedAt": "2026-11-06T11:22:51Z"
     },
